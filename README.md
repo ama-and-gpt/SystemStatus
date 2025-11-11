@@ -5,6 +5,7 @@ Simple system status display
 **Autor / Author:** Ama B.  
 **Licença / License:** MIT  
 
+98% coded with ChatGPT
 ---
 
 ## 🇵🇹 Introdução
